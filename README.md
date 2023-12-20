@@ -16,13 +16,13 @@ This Node.js application automatically checks for unread emails in your Gmail in
 1. Clone the repository to your local machine.
 
     ```bash
-    git clone https://github.com/your-username/autoreply-gmail-bot.git
+    git clone https://github.com/Cruz-Rider/gmailAutorespond.git
     ```
 
 2. Navigate to the project directory.
 
     ```bash
-    cd autoreply-gmail-bot
+    cd gmailAutorespond
     ```
 
 3. Install dependencies.
@@ -53,7 +53,7 @@ Before running the application, you need to set up the Gmail API and obtain cred
 2. Create a new project.
 3. Enable the Gmail API for your project.
 4. Create credentials (OAuth client ID).
-5. Download the credentials file (`credentials.json`) and save it in the project directory.
+5. Download the credentials file (`credentials.json`) and replace it with the one in the project directory.
 
 ### Token File
 
