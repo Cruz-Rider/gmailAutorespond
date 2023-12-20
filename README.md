@@ -38,7 +38,7 @@ This Node.js application automatically checks for unread emails in your Gmail in
 1. Run the application to create the necessary label and check for unread emails.
 
     ```bash
-    npm start
+    node .
     ```
 
 2. The application will run at random intervals between 45 to 120 seconds to check for unread emails and reply automatically.
